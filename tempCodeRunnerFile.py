@@ -1,4 +1,4 @@
-# # #Write a program to Calculate sum of first N natural numbers
+# #Write a program to Calculate sum of first N natural numbers
 
 
 # # n = int(input("Enter a positive integer: "))
@@ -36,19 +36,3 @@
 #     for i in range(1, num + 1):
 #         factorial *= i
 #     print(f"The factorial of {num} is {factorial}")
-
-
-
-    #Write a program to Count digits in a number. 
-
-
-num = int(input("Enter a number: "))
-
-abs_num = abs(num)
-
-digit_count = 0
-
-for digit in str(abs_num):
-    digit_count += 1
-
-print("Total number of digits:", digit_count)
