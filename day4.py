@@ -84,3 +84,6 @@ for num in range(lower, upper + 1):
 
     if total == num:
         print(num)
+
+
+
