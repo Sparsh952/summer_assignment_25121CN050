@@ -18,8 +18,6 @@ for i in arr:
 #2  Write a program to Find sum and average of array
 
 
-# Find sum and average of array
-
 n = int(input("Enter the number of elements: "))
 
 arr = []
